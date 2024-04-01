@@ -137,7 +137,7 @@
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.2",
     "tsc-alias": "^1.8.8",
-    "tsc-watch": "^6.0.4",
+    "tsc-watch": "^6.2.0",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.3.3"
   },
